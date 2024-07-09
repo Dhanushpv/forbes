@@ -1,0 +1,37 @@
+  <div class="row pt-5">
+                    <div class="fw-bolder fs-1">Blogs</div>
+                    <div class="col-lg-4">
+                        <img src="./image/shutterstock_2265134943_SM.jpg" class="w-100" alt="">
+                    </div>
+                    
+                    <div class="col-lg-3">
+                        <div  class="pt-3">
+                            <span class="fw-light "><b>NEWS</b></span>
+                            <div class=""><b>Lorem ipsum, dolor sit amet consectetur adipisicing elit. A necessitatibus assumenda odit eligendi expedita officiis!</b></div>
+                            <span class="font-by" >By <b class="fw-bolder">Forbes India</b></span>
+                            <div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos, necessitatibus?</div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <img src="./image/PM-Modi-100-day-plan.jpg" class="w-100" alt="">
+                        <div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos quod harum hic perspiciatis mollitia labore voluptas illum officiis corrupti culpa.</div>
+                        <div class="d-flex pt-5">
+                            <div class="">
+                            <img src="./image/img_236282_malissawithbookgaaquarium.jpg" class=" small-img img-fluid w-100 position-relative" alt="...">
+                            </div>
+                            <div class="col-lg-8  position-relative small-img">
+                            <div>Celebrate those who work smarter, not longer: Malissa Clark</div>
+                            </div>
+                        </div>
+                        <div class="d-flex pt-5">
+                            <div class="">
+                            <img src="./image/img_236282_malissawithbookgaaquarium.jpg" class=" small-img img-fluid w-100 position-relative" alt="...">
+                            </div>
+                            <div class="col-lg-8  position-relative small-img">
+                            <div>Celebrate those who work smarter, not longer: Malissa Clark</div>
+                            </div>
+                        </div>
+
+                    </div>
+                    
+                </div>
